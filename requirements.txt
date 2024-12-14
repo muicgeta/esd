@@ -27,7 +27,7 @@ pymongo[srv]
 pyromod~=1.5
 aiofiles
 beautifulsoup4
-py-tgcalls==0.9.7
+py-tgcalls==2.0.6
 pykeyboard
 pyyaml
 speedtest-cli
